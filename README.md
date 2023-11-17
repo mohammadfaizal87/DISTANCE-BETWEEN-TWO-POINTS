@@ -30,7 +30,8 @@ print(distance(x1,y1,x2,y2))
 ```
 
 ### OUTPUT:
-![](./output.png)
+![output](https://github.com/mohammadfaizal87/DISTANCE-BETWEEN-TWO-POINTS/assets/147139206/ab9722c4-9d6d-4be8-856d-048779f1aea5)
+
 
 ### RESULT:
 Thus the distance between two points are successfully executed.
